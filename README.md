@@ -1,5 +1,5 @@
 # Cloud_Fog_Ship_Detction
-Real Cloud and Mist Images in Optical Remote Sensing for Ship Detection. 
+Real Cloud and Fog Images in Optical Remote Sensing for Ship Detection. 
 ## Dataset Description
 The dataset have 1646 images, 2793 ships. from 2015 to 2025 years. 
 ## Dataset Download
